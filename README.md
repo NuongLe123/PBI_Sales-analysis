@@ -21,32 +21,22 @@ Analyzing the Global Superstore data of 2016 can provide valuable insights into 
 ### 2. Dimension: Customer
 <img width="756" alt="Screenshot_2" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/3f2bca3f-83f4-4ef4-b575-ba2ec74459be">
 
-
-
 <img width="756" alt="Screenshot_3" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/247145ce-4949-4226-861b-9cecbe6a737e">
 
 ### 3. Dimension: Product
 <img width="757" alt="Screenshot_4" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/8ad7d0e6-e84c-4fb6-aea4-b3d4f6025303">
 
-
-
 <img width="756" alt="Screenshot_5" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/cdb9da2f-4a2a-4db9-8c6f-ae7d0c50c92a">
-
-
 
 <img width="754" alt="Screenshot_6" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/425d56f2-a451-4d40-b36e-25a2eb6a9577">
 
 ### 4. Dimension: Ship Mode
 <img width="752" alt="Screenshot_7" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/7f1dd767-bc23-4d2a-86b0-e979d0ee3cf5">
 
-
-
 <img width="759" alt="Screenshot_8" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/201f7871-7e9f-4091-be2d-3dfe3fcc9ad9">
 
 ### 5. RECOMMENDATIONS
 <img width="745" alt="Screenshot_9" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/a8ac81e1-8d7f-45b5-9a53-a98f8bbf2c03">
-
-
 
 <img width="747" alt="Screenshot_10" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/241de2ae-ac11-482e-840d-948f18facfd9">
 
