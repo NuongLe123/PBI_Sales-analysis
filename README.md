@@ -21,6 +21,7 @@ Analyzing the Global Superstore data of 2016 can provide valuable insights into 
 ### 2. Dimension: Customer
 <img width="756" alt="Screenshot_2" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/3f2bca3f-83f4-4ef4-b575-ba2ec74459be">
 
+
 <img width="756" alt="Screenshot_3" src="https://github.com/NuongLe123/Python_RFM_analysis/assets/168357450/247145ce-4949-4226-861b-9cecbe6a737e">
 
 ### 3. Dimension: Product
