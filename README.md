@@ -3,7 +3,8 @@ Using Power BI to analyse sales performance of Global Superstore
 
 ## I. Introduction
 ### 1. About the company
-The Global Superstore  is a well-known retail company that operates worldwide, selling a wide range of products, including Office supplies, Furniture and Technology Stuff. In 2015, the company generated a vast amount of data related to its sales, customers, and products. This data is valuable in understanding the performance of the company, identifying trends and patterns, and making informed business decisions.
+- The Global Superstore  is a well-known retail company that operates worldwide, selling a wide range of products, including Office supplies, Furniture and Technology Stuff. 
+- In 2015, the company generated a vast amount of data related to its sales, customers, and products. This data is valuable in understanding the performance of the company, identifying trends and patterns, and making informed business decisions.
 
 ### 2. About the dataset
 The dataset has sales data for a global retail company with multiple branches or stores worldwide. It typically includes information about customers, orders, products, shipping, and various other related attributes.  Dataset contains 3 tables:  
@@ -12,7 +13,8 @@ The dataset has sales data for a global retail company with multiple branches or
 - **Returns Table**: This table tracks returned items and includes information about whether an item was returned (Returned column), the Order ID, and the Market.
 
 ### 3. Business questions
-Analyzing the Global Superstore data of 2016 can provide valuable insights into the retail industry and help businesses in making informed decisions. For instance, a business can identify which products are performing well in different regions and use this information to make decisions about inventory management and marketing strategies. Additionally, the data can reveal which customers are the most profitable, helping businesses to target their marketing and sales efforts more effectively. Overall, the Global Superstore data of 2016 is an excellent resource for businesses looking to gain a competitive edge in the retail industry.
+- Analyzing the Global Superstore data of 2016 can provide valuable insights into the retail industry and help businesses in making informed decisions. For instance, a business can identify which products are performing well in different regions and use this information to make decisions about inventory management and marketing strategies. 
+- Additionally, the data can reveal which customers are the most profitable, helping businesses to target their marketing and sales efforts more effectively. Overall, the Global Superstore data of 2016 is an excellent resource for businesses looking to gain a competitive edge in the retail industry.
 
 ## II. Visualisation in Power BI 
 ### 1. Sales Overview 
